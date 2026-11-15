@@ -2,6 +2,24 @@
 ## 👨‍💻 About Me<br><br>🔭 I'm currently working on **building end-to-end data engineering pipelines** using Python, SQL, PySpark and Databricks.<br><br>👯 I'm looking to collaborate on **Data Engineering, ETL pipelines, Big Data and cloud-based data projects**.<br><br>🤝 I'm looking for help with **advanced data engineering concepts, distributed data processing and building scalable data architectures**.<br><br>🌱 I'm currently learning **Azure Data Engineering, Apache Airflow, dbt and advanced PySpark**.<br><br>💬 Ask me about **Python, SQL, PySpark, Databricks, Azure, Delta Lake, ETL and Data Pipelines**.<br><br>⚡ Fun fact: **I enjoy transforming raw data into meaningful insights and building solutions that solve real-world problems.**
 
 
+## 🚀 Featured Projects
+
+### 1. EV Data Engineering Platform
+An end-to-end data engineering project focused on building a scalable EV data platform.
+
+**Tech Stack:** Python | SQL | Azure Data Factory | Azure Databricks | PySpark | Delta Lake
+
+🔗 [View Repository](YOUR_EV_PROJECT_REPOSITORY_URL)
+
+### 2. Restaurant Lakehouse Platform
+A lakehouse project demonstrating modern data engineering concepts, data processing and analytics.
+
+**Tech Stack:** Python | SQL | Databricks | PySpark | Delta Lake | Unity Catalog
+
+🔗 [View Repository](YOUR_RESTAURANT_PROJECT_REPOSITORY_URL)
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajay-t-7a122a205/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajayarya3803@gmail.com) 
 
